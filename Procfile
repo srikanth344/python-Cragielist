@@ -1,0 +1,1 @@
+web: gunicorn srikanth_list.wsgi
